@@ -1,3 +1,6 @@
+'''
+implementing gradient descent in a multiple regression model
+'''
 import math, copy
 import numpy as np
 import matplotlib.pyplot as plt
