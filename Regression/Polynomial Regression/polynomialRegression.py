@@ -80,6 +80,7 @@ plt.ylabel('Cost')
 plt.title('Cost vs. Iteration')
 plt.show()
 
+#plotting the final function
 plt.scatter(x_train, y_train)
 plt.plot(x_range, y_predicted, color='red')
 plt.xlabel('x')
