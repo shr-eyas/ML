@@ -1,2 +1,3 @@
 Machine Learning Specialization (Andrew Ng)
-NJIT, USA CS 675 
+
+CS 675 NJIT, USA 
