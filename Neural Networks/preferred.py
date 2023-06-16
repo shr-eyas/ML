@@ -29,6 +29,6 @@ preferred_model.compile(
 
 preferred_model.fit(
     X_train,y_train,
-    epochs=10
+    epochs=10         #similar to no of iterations
 )
     
